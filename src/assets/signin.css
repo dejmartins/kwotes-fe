@@ -1,0 +1,29 @@
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 26px;
+}
+
+.welcome-back {
+  position: absolute;
+  text-align: center;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 400px;
+  height: 300px;
+}
+
+.welcome-back h1 {
+  margin-bottom: 5px;
+}
+
+.welcome-back button {
+  margin-top: 20px;
+  padding: 6px 40px;
+  cursor: pointer;
+  border: 2px solid;
+  border-radius: 4px;
+}
