@@ -36,7 +36,7 @@
   margin-bottom: 30px;
 }
 
-.generate-quotes button {
+.generate-quotes input {
   position: absolute;
   right: 15px;
   padding: 5px 20px;

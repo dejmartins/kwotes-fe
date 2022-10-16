@@ -45,7 +45,7 @@ function SignIn() {
 
   return (
     <>
-      {signedIn ? (
+      {user ? (
         <Home displayName={user.displayName} />
       ) : (
         <div className="welcome-page">
